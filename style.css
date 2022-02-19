@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(152, 77, 6, 0.177);
+}
+h3{
+    color: rgba(14, 7, 224, 0.612);
+    background-color: rgba(16, 138, 214, 0.279);
+    border-color:black ;
+    font-size: 52px;
+    font-family: 'Pattaya', sans-serif;
+    padding-top: 20px;
+    text-align: center;
+    margin: 30px auto 0px auto;
+    font-weight: bold;
+    border-style:dotted ;
+}
+form {
+    width: 50%;
+    margin: 3px auto 1px auto;
+}
+
+p.container{
+    align-content:center;
+    text-align: center;
+}
+label{
+    width: 30%;
+    margin: auto 2px 1px 5px;
+}
+.btn{
+   padding: auto;
+   border-radius: 5px;
+   border: none;
+   width: 100%;
+   margin: 5px auto auto auto;
+}
+.error{
+    width: 92%;
+    margin:  0px auto;
+    padding: 10px;
+    border: 1px solid rgb(128, 4, 4);
+    color: rgba(250, 14, 14, 0.537);
+    background: white;
+    border-radius: 5px;
+    text-align: center;
+
+}
+.success{
+    margin-bottom:  20px;
+    border: 1px solid rgb(2, 110, 45);
+    color: rgba(45, 250, 14, 0.462);
+    background: white;
+}
+
